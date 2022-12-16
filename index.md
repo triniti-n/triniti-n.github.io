@@ -18,4 +18,4 @@ My GitHub page is [triniti-n](http://github.com/triniti-n).
 
 * Lab 10
 
-[Lab 10](https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-10-daniel-and-triniti.git), part 2 was my favorite because I learned how to use 2D vectors to hold 2 lists of information. I needed to create a 2D data structure to organize California’s population data by county. At first, I struggled to understand 2D vectors, but once I understood how to work I was able to fix my program to make it run correctly.
+[Lab 10](https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-10-daniel-and-triniti.git), part 2 was my favorite because I learned how to use 2D vectors to hold 2 lists of information. I needed to create a 2D data structure to organize California’s population data by county. At first, I struggled to understand 2D vectors, but once I understood how it worked I was able to fix my program to make it run correctly.
